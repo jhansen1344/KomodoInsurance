@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace KomodoInsuranceUI
 {
-    class Program
+    public class ProgramUI
     {
-        static void Main(string[] args)
+        public void Run()
         {
-            var program = new ProgramUI();
-            program.Run();
+
         }
     }
 }

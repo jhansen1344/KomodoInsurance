@@ -33,9 +33,17 @@ namespace KomodoInsuranceClassLibrary
         }
         //Update
 
-        public bool UpdateTeam()
+        public bool UpdateTeam(int id, string name)
         {
-
+            foreach (var team in _teamDirectory)
+            {
+                if (id == team.Id)
+                {
+                    team.Name = name;
+                    return true;
+                }
+            }
+            return false;
         }
 
         //Delete
