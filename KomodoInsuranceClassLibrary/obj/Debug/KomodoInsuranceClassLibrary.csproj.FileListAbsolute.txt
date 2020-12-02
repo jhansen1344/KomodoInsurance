@@ -1,2 +1,6 @@
 C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceClassLibrary\obj\Debug\KomodoInsuranceClassLibrary.csprojAssemblyReference.cache
 C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceClassLibrary\obj\Debug\KomodoInsuranceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceClassLibrary\bin\Debug\KomodoInsuranceClassLibrary.dll
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceClassLibrary\bin\Debug\KomodoInsuranceClassLibrary.pdb
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceClassLibrary\obj\Debug\KomodoInsuranceClassLibrary.dll
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceClassLibrary\obj\Debug\KomodoInsuranceClassLibrary.pdb

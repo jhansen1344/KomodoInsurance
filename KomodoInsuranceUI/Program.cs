@@ -10,6 +10,9 @@ namespace KomodoInsuranceUI
     {
         static void Main(string[] args)
         {
+            //var program = new ProgramUI();
+            //program.Run();
+
             var program = new ProgramUI();
             program.Run();
         }

@@ -5,3 +5,6 @@ C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\obj
 C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.csproj.CoreCompileInputs.cache
 C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.exe
 C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.pdb
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceClassLibrary.dll
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceClassLibrary.pdb
+C:\Users\jhans\source\repos\SD2020PartTime\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.csproj.CopyComplete

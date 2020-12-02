@@ -31,6 +31,16 @@ namespace KomodoInsuranceClassLibrary
         {
             return _developerDirectory;
         }
+
+        public Developer ReturnDeveloperById(int id)
+        {
+            foreach (var developer in _developerDirectory)
+            {
+                if (developer.Id == id)
+                    return developer;
+            }
+            return null;
+        }
         //Update
         public bool UpdateDeveloper(int id, string name, bool hasPluralSight)
         {
@@ -57,6 +67,15 @@ namespace KomodoInsuranceClassLibrary
                 }
             }
             return false;
+        }
+
+
+        public void SeedContent()
+        {
+            AddDeveloper("Bill Smith", false);
+            AddDeveloper("John Doe", true);
+            AddDeveloper("Jane Tarzan", false);
+            AddDeveloper("Jill James", true);
         }
 
     }
